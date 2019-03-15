@@ -20,7 +20,7 @@ class SlideAccueilState extends State<SlideAccueil> {
     slides.add(
       new Slide(
         title:
-            "TRANSFERT D'ARGENT",
+            "TRANSFERT",
         maxLineTitle: 2,
         styleTitle: TextStyle(
             color: Colors.white,
@@ -48,7 +48,7 @@ class SlideAccueilState extends State<SlideAccueil> {
     );
     slides.add(
       new Slide(
-        title: "RETRAIT D'ARGENT",
+        title: "RETRAIT",
         styleTitle: TextStyle(
             color: Colors.white,
             fontSize: 30.0,
@@ -69,7 +69,7 @@ class SlideAccueilState extends State<SlideAccueil> {
     );
     slides.add(
       new Slide(
-        title: "Payement de facture",
+        title: "PAYEMENT",
         styleTitle: TextStyle(
             color: Colors.white,
             fontSize: 30.0,
